@@ -1,0 +1,135 @@
+
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440001",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "experience": 7,
+    "skills": ["JavaScript", "React", "TypeScript", "Node.js"],
+    "education": "Bachelor's",
+    "location": "Remote",
+    "cv": "Experienced full-stack developer with expertise in modern web technologies. Strong background in React ecosystem and backend development.",
+    "rating": 85
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440002",
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@example.com",
+    "experience": 12,
+    "skills": ["Python", "Django", "Machine Learning", "Data Analysis"],
+    "education": "Master's",
+    "location": "New York",
+    "cv": "Senior software engineer with extensive experience in Python development and machine learning applications.",
+    "rating": 92
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440003",
+    "name": "Michael Chen",
+    "email": "michael.chen@example.com",
+    "experience": 5,
+    "skills": ["Java", "Spring Boot", "Microservices", "AWS"],
+    "education": "Bachelor's",
+    "location": "San Francisco",
+    "cv": "Java developer with strong expertise in microservices architecture and cloud platforms.",
+    "rating": 78
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440004",
+    "name": "Emily Rodriguez",
+    "email": "emily.rodriguez@example.com",
+    "experience": 9,
+    "skills": ["Angular", "TypeScript", "CSS", "UX Design"],
+    "education": "Master's",
+    "location": "Remote",
+    "cv": "Frontend specialist with strong design skills and extensive Angular experience.",
+    "rating": 88
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440005",
+    "name": "David Kim",
+    "email": "david.kim@example.com",
+    "experience": 15,
+    "skills": ["C++", "System Design", "Leadership", "Architecture"],
+    "education": "PhD",
+    "location": "Seattle",
+    "cv": "Senior architect with deep systems knowledge and team leadership experience.",
+    "rating": 95
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440006",
+    "name": "Lisa Wang",
+    "email": "lisa.wang@example.com",
+    "experience": 6,
+    "skills": ["React Native", "iOS", "Android", "Flutter"],
+    "education": "Bachelor's",
+    "location": "Los Angeles",
+    "cv": "Mobile developer with cross-platform expertise and published apps in both app stores.",
+    "rating": 81
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440007",
+    "name": "Robert Taylor",
+    "email": "robert.taylor@example.com",
+    "experience": 3,
+    "skills": ["PHP", "Laravel", "MySQL", "Vue.js"],
+    "education": "Bachelor's",
+    "location": "Chicago",
+    "cv": "Junior developer with solid foundation in PHP frameworks and database design.",
+    "rating": 72
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440008",
+    "name": "Jennifer Brown",
+    "email": "jennifer.brown@example.com",
+    "experience": 11,
+    "skills": ["DevOps", "Docker", "Kubernetes", "CI/CD"],
+    "education": "Master's",
+    "location": "Austin",
+    "cv": "DevOps engineer with expertise in containerization and deployment automation.",
+    "rating": 89
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440009",
+    "name": "Alex Martinez",
+    "email": "alex.martinez@example.com",
+    "experience": 8,
+    "skills": ["Go", "PostgreSQL", "Redis", "Microservices"],
+    "education": "Bachelor's",
+    "location": "Remote",
+    "cv": "Backend engineer specializing in high-performance systems and database optimization.",
+    "rating": 84
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440010",
+    "name": "Rachel Green",
+    "email": "rachel.green@example.com",
+    "experience": 4,
+    "skills": ["Rust", "WebAssembly", "Systems Programming", "Performance"],
+    "education": "Master's",
+    "location": "Portland",
+    "cv": "Systems programmer with expertise in Rust and performance optimization.",
+    "rating": 86
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440011",
+    "name": "Tom Wilson",
+    "email": "tom.wilson@example.com",
+    "experience": 13,
+    "skills": ["Scala", "Apache Spark", "Big Data", "Analytics"],
+    "education": "PhD",
+    "location": "Boston",
+    "cv": "Data engineer with extensive experience in big data processing and analytics platforms.",
+    "rating": 91
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440012",
+    "name": "Amanda Davis",
+    "email": "amanda.davis@example.com",
+    "experience": 6,
+    "skills": ["Ruby", "Rails", "PostgreSQL", "API Design"],
+    "education": "Bachelor's",
+    "location": "Denver",
+    "cv": "Ruby developer with strong API design skills and database expertise.",
+    "rating": 77
+  }
+]
