@@ -220,3 +220,5 @@ Pull requests are welcome! Please open an issue to discuss major changes. For lo
 
 ## License
 This project is for educational and demonstration purposes. For commercial use, please contact the author.
+Email: b.iradukund3@alustudent.com
+GitHub Username: Blandin3
